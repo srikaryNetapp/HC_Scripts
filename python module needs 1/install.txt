@@ -1,0 +1,8 @@
+
+pip install mailer-0.8.1.zip --find-links ./ --no-index
+pip install requests-2.32.3-py3-none-any.whl --find-links ./ --no-index
+pip install urllib3-2.3.0-py3-none-any.whl --find-links ./ --no-index
+pip install pandas-2.2.3-cp39-cp39-win_amd64.whl --find-links ./ --no-index 
+pip install paramiko-3.5.0-py3-none-any.whl --find-links ./ --no-index 
+pip install mysql-connector-2.2.9.tar.gz --find-links ./ --no-index
+Pip install openpyxl-3.1.5-py2.py3-none-any.whl --find-links ./ --no-index
